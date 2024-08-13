@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="661c6501-a9ef-41e5-8b31-6d3bce3f0d25" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/claserepaso.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/claserepaso.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clinica.mv.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logfile.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/claserepaso/dao/IDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/claserepaso/dao/impl/DomicilioDaoH2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/claserepaso/dao/impl/PacienteDaoH2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/claserepaso/dao/impl/PacienteDaoMemoria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/claserepaso/db/H2Connection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/claserepaso/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/claserepaso/model/Domicilio.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/claserepaso/model/Paciente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/claserepaso/service/PacienteService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/claserepaso/test/PacienteServiceMemoriaTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/claserepaso/test/PacienteServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/IDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/impl/DomicilioDaoH2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/impl/PacienteDaoH2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dao/impl/PacienteDaoMemoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/db/H2Connection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Domicilio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Paciente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/PacienteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/PacienteServiceMemoriaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/PacienteServiceTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2kZAqqTKL4G1Q78UhtBtTMAZUMb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.PacienteServiceMemoriaTest.executor": "Run",
+    "JUnit.PacienteServiceTest.caso1.executor": "Run",
+    "JUnit.PacienteServiceTest.caso2.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Lenovo/Desktop/PROYECTOS/CTD/BACKEND I/2. LOGGING Y ACCESO DE DATOS/INTEGRACION DE CONOCIMIENTOS/log4j-1.2.17.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Desktop\PROYECTOS\CTD\BACKEND I\2. LOGGING Y ACCESO DE DATOS\INTEGRACION DE CONOCIMIENTOS\claserepaso\src" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PacienteServiceMemoriaTest">
+    <configuration name="PacienteServiceMemoriaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="claserepaso" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.PacienteServiceMemoriaTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PacienteServiceTest.caso1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="claserepaso" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.PacienteServiceTest" />
+      <option name="METHOD_NAME" value="caso1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PacienteServiceTest.caso2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="claserepaso" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.PacienteServiceTest" />
+      <option name="METHOD_NAME" value="caso2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PacienteServiceMemoriaTest" />
+        <item itemvalue="JUnit.PacienteServiceTest.caso2" />
+        <item itemvalue="JUnit.PacienteServiceTest.caso1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="661c6501-a9ef-41e5-8b31-6d3bce3f0d25" name="Changes" comment="" />
+      <created>1723430245838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723430245838</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

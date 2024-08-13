@@ -5,37 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="661c6501-a9ef-41e5-8b31-6d3bce3f0d25" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/claserepaso.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/claserepaso.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clinica.mv.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/create.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logfile.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/claserepaso/dao/IDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/claserepaso/dao/impl/DomicilioDaoH2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/claserepaso/dao/impl/PacienteDaoH2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/claserepaso/dao/impl/PacienteDaoMemoria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/claserepaso/db/H2Connection.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/claserepaso/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/claserepaso/model/Domicilio.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/claserepaso/model/Paciente.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/claserepaso/service/PacienteService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/claserepaso/test/PacienteServiceMemoriaTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/claserepaso/test/PacienteServiceTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dao/IDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dao/impl/DomicilioDaoH2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dao/impl/PacienteDaoH2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dao/impl/PacienteDaoMemoria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/db/H2Connection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Domicilio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Paciente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/PacienteService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/PacienteServiceMemoriaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/PacienteServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +23,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
